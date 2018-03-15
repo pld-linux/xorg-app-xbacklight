@@ -1,13 +1,13 @@
 Summary:	xbacklight application - adjust backlight brightness using RandR extension
 Summary(pl.UTF-8):	Aplikacja xbacklight - zmiana jasności podświetlenia obrazu poprzez RandR
 Name:		xorg-app-xbacklight
-Version:	1.2.1
+Version:	1.2.2
 Release:	1
 License:	MIT
 Group:		X11/Applications
-Source0:	http://xorg.freedesktop.org/releases/individual/app/xbacklight-%{version}.tar.bz2
-# Source0-md5:	0066f23f69ca3ef62dcaeb74a87fdc48
-URL:		http://xorg.freedesktop.org/
+Source0:	https://xorg.freedesktop.org/releases/individual/app/xbacklight-%{version}.tar.bz2
+# Source0-md5:	d50cf135af04436b9456a5ab7dcf7971
+URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
 BuildRequires:	pkgconfig >= 1:0.19
